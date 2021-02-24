@@ -17,6 +17,13 @@ Now that you have conda installed on your command line, clone this repository to
 
 **When running all of these notebooks, click the drop-down menu in the top right and change the environment to the S2S environment**
 
+Comments Judith: 
+0.0_launch_cluster.ipynb is the launch script
+0.01-0.04 are "pre-processing scripts and need to be run for most applications
+0.05 is the script for the actual verification. It contains the steps necessary for 
+dealing with Feb 29. 
+For new scripts, I suggest copying 0.05 and start to replace under title 'Verification'.
+
 ## Figures
 
 Here are a few figures that come out of this quick analysis.
@@ -37,10 +44,5 @@ Here are a few figures that come out of this quick analysis.
 
 ![](https://i.imgur.com/ZcAF5X3.png)
 
-Comments Judith: 
-0.0_launch_cluster.ipynb is the launch script
-0.01-0.04 are "pre-processing scripts and need to be run for most applications
-0.05 is the script for the actual verification. It contains the steps necessary for 
-dealing with Feb 29. 
-For new scripts, I suggest copying 0.05 and start to replace under title 'Verification'.
+
 
