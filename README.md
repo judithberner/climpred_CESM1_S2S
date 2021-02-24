@@ -22,7 +22,6 @@ Comments Judith:
 2. 01-0.04 are "pre-processing scripts and need to be run for most applications.
 3. 0.05 is the script for the actual verification. It contains the steps necessary for 
 dealing with Feb 29. 
-
 For new scripts, I suggest copying 0.05 and start to replace under title 'Verification'.
 
 ## Figures
