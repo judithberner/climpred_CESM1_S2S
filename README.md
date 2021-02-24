@@ -36,3 +36,11 @@ Here are a few figures that come out of this quick analysis.
 ### Globally averaged TAS anomaly correlation coefficients by initialization month
 
 ![](https://i.imgur.com/ZcAF5X3.png)
+
+Comments Judith: 
+0.0_launch_cluster.ipynb is the launch script
+0.01-0.04 are "pre-processing scripts and need to be run for most applications
+0.05 is the script for the actual verification. It contains the steps necessary for 
+dealing with Feb 29. 
+For new scripts, I suggest copying 0.05 and start to replace under title 'Verification'.
+
