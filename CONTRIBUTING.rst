@@ -1,4 +1,5 @@
-# Preparing Pull Requests
+Preparing Pull Requests
+#######################
 
 1. Fork the
    `climpred_CESM1_S2S GitHub repository <https://github.com/judithberner/climpred_CESM1_S2S>`__.
